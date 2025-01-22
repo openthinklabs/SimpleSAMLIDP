@@ -235,3 +235,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+#simplesamlphp cache
+.cache
